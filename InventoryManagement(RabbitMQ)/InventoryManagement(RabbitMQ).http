@@ -1,0 +1,6 @@
+@InventoryManagement_RabbitMQ__HostAddress = http://localhost:5226
+
+GET {{InventoryManagement_RabbitMQ__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
